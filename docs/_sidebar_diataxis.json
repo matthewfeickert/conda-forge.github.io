@@ -138,6 +138,11 @@
             "id": "how-to/advanced/several-versions"
           },
           {
+            "type": "doc",
+            "label": "Self-hosted runners",
+            "id": "how-to/advanced/self-hosted-runners"
+          },
+          {
             "type": "link",
             "label": "Rename packages",
             "href": "#"
