@@ -127,6 +127,31 @@
             "id": "how-to/advanced/autotools-to-cmake"
           },
           {
+            "type": "category",
+            "label": "Building packages for Windows",
+            "link": {
+              "type": "doc",
+              "id": "how-to/advanced/windows"
+            },
+            "items": [
+              {
+                "type": "doc",
+                "label": "CMD/Batch scripting for Windows recipes",
+                "id": "how-to/advanced/windows/cmd-batch-syntax"
+              },
+              {
+                "type": "doc",
+                "label": "Testing and debugging Windows builds locally",
+                "id": "how-to/advanced/windows/local-testing"
+              },
+              {
+                "type": "doc",
+                "label": "Compiling native code on Windows with MSVC",
+                "id": "how-to/advanced/windows/notes-on-native-code"
+              }
+            ]
+          },
+          {
             "type": "link",
             "label": "Enable CUDA",
             "href": "/docs/maintainer/knowledge_base/#cuda-builds"
